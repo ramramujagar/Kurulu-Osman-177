@@ -5,3 +5,5 @@ Osman Bey Moğolların kurduğu hain tuzaktan kurtulmaya çalışıyor. Bu böl�
 Tuzaktan kurtulma ihtimalleri arasında, Osman Bey'in sadık alplerinin yardımı veya İlbay'ın maskesinin düşmesi bulunuyor. İlbay'ın Moğollar tarafından yalanlarla büyütüldüğü ihtimali hikayenin yönünü değiştirebilir. İlbay, gerçekleri öğrenirse taraf değiştirebilir ve bu sürpriz bir gelişme olur.
 
 Ayrıca, Turgut Bey'in geri dönüşü veya yeni karakterlerin sahneye çıkışı bekleniyor. Aksakallıların dolaylı yardımları ve Alaaddin Bey'in gelecekteki rolü de hikayeye yeni boyutlar katabilir. Moğollarla büyük çarpışma sahneleri ve beklenmedik gelişmeler izleyiciler tarafından merakla bekleniyor.
+[![Download]([![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/your_username/your_repo_name/archive/refs/heads/main.zip)
+)](https://github.com/your_username/your_repo_name/archive/refs/heads/main.zip)
